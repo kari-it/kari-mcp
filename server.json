@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.kari/catalog",
+  "title": "kari catalog",
+  "description": "kari shoe and accessory stores in Russia, Kazakhstan, Belarus: search, prices, stores, size stock",
+  "version": "1.0.1",
+  "websiteUrl": "https://mcp.kari.com/",
+  "repository": { "url": "https://github.com/kari-it/kari-mcp", "source": "github" },
+  "remotes": [{ "type": "streamable-http", "url": "https://mcp.kari.com/mcp" }]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "kari",
+  "owner": { "name": "kari", "url": "https://kari.com/" },
+  "description": "kari catalog for AI assistants: MCP server and skill",
+  "plugins": [
+    {
+      "name": "kari-catalog",
+      "source": "./",
+      "description": "kari catalog MCP server and skill: search, prices, stores, size availability"
+    }
+  ]
+}

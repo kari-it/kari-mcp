@@ -1,0 +1,9 @@
+{
+  "name": "kari-catalog",
+  "version": "1.0.1",
+  "description": "kari catalog MCP server and skill: shoes, clothing and accessories in Russia, Kazakhstan and Belarus — search, prices, stores, size availability",
+  "author": { "name": "kari", "url": "https://kari.com/" },
+  "homepage": "https://kari.com/ai/",
+  "repository": "https://github.com/kari-it/kari-mcp",
+  "keywords": ["mcp", "shopping", "catalog", "shoes", "kari"]
+}
